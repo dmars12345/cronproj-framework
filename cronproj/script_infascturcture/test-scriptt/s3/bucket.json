@@ -1,0 +1,1 @@
+{"bucket": "test-scriptt-bucket", "policy": "PublicAccessBlockConfiguration={\"BlockPublicAcls\":True ,\n\"IgnorePublicAcls\": True,\"BlockPublicPolicy\":True,\"RestrictPublicBuckets\":True}"}

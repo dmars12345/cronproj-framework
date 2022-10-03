@@ -1,0 +1,1 @@
+{"ecr_ec2_policy": "arn:aws:iam::aws:policy/EC2InstanceProfileForImageBuilderECRContainerBuilds", "s3": "arn:aws:iam::aws:policy/AmazonS3FullAccess", "elastic": "arn:aws:iam::aws:policy/AmazonElasticFileSystemFullAccess"}

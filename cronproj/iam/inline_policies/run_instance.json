@@ -1,0 +1,1 @@
+{"Version": "2012-10-17", "Statement": [{"Sid": "Stmt1479335761363", "Action": ["ec2:DescribeInstances", "ec2:RequestSpotInstances", "ec2:RunInstances", "iam:PassRole","iam:CreateRole"], "Effect": "Allow", "Resource": "*"}]}

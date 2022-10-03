@@ -1,0 +1,1 @@
+{"s3_full": "arn:aws:iam::aws:policy/AmazonS3FullAccess", "ec2_full": "arn:aws:iam::aws:policy/AmazonEC2FullAccess", "lambda_full": "arn:aws:iam::aws:policy/AWSLambda_FullAccess"}

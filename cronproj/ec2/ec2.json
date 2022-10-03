@@ -1,0 +1,1 @@
+{"netwok": {"SubnetId": "subnet-03c88f59934baad54", "DeviceIndex": 0, "AssociatePublicIpAddress": true, "Groups": ["sg-03d33290c1502d24c"]}, "home": "i-0fb5602041f03c038", "key": "cron_keyy", "instanceP": "DeployProfile"}
